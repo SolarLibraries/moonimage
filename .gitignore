@@ -9,3 +9,7 @@ examples/output*.*
 local/
 src/DIFF
 src/TODO
+/luarocks
+/lua
+/lua_modules
+/.luarocks
